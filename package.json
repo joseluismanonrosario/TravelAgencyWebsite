@@ -1,0 +1,20 @@
+{
+  "name": "travelagencywebsite",
+  "version": "1.0.0",
+  "description": "Pagina Web para una agencia de Viajes",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "run": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
